@@ -1,4 +1,4 @@
-const  selectManyFunc = (str) => {
+const  selectManyFunc = (arr) => {
   //在这里写入代码
 }
 
