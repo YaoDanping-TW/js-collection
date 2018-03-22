@@ -1,3 +1,7 @@
+/**
+ * Array.prototype.map()
+ */
+
 import mapFunc from "../src/map.js";
 
 describe('mapFunc', function() {

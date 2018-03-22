@@ -1,3 +1,5 @@
+// Array.prototype.flaten()
+
 import flatenFunc from "../src/flaten.js";
 
 describe('flatenFunc', function() {

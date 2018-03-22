@@ -1,3 +1,7 @@
+/**
+ * Array.prototype.join()
+ */
+
 import joinFunc from "../src/join.js";
 
 describe('joinFunc', function() {

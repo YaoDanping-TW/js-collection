@@ -1,3 +1,7 @@
+/**
+ * Array.prototype.filter()
+ */
+
 import filterFunc from "../src/filter.js";
 
 describe('filterFunc', function() {

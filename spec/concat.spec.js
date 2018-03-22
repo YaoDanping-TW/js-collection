@@ -1,3 +1,7 @@
+/**
+ * Array.prototype.concat()
+ */
+
 import concatFunc from "../src/concat.js";
 
 describe('concatFunc', function() {

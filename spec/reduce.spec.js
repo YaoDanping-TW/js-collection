@@ -1,3 +1,7 @@
+/**
+ * Array.prototype.reduce()
+ */
+
 import reduceFunc from "../src/reduce.js";
 
 describe('reduceFunc', function() {

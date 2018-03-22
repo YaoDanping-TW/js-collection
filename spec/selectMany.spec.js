@@ -1,3 +1,4 @@
+
 import selectManyFunc from "../src/selectMany.js";
 
 describe('selectManyFunc', function() {

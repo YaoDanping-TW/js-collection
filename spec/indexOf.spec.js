@@ -1,3 +1,7 @@
+/**
+ * Array.indexOf() same as String.indexOf()
+ */
+
 import indexOfFunc from "../src/indexOf.js";
 
 describe('indexOfFunc', function() {
