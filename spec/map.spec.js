@@ -6,12 +6,11 @@ import mapFunc from "../src/map.js";
 
 describe('mapFunc', function() {
 
-  let collectionA = [1, 2, 3, 4, 5];
-  let collectionB = ['a', 'b', 'c', 'd', 'e'];
+  let collection = [1, 2, 3, 4, 5];
 
-  it('数字映射为字母', function() {
-    let result = mapFunc(collectionA);
-    // expect(result).toEqual(collectionB);
+  it('将偶数double', function() {
+    let result = mapFunc(collection);
+    // expect(result).toEqual([1, 4, 3, 8, 5]);
   });
 
 });
